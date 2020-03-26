@@ -23,4 +23,4 @@ Necessities :
 - jumpwires
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/RubenDeLeeuw/Temperature-and-humidity-control-for-server-room-with-RFID-door-lock-esp32-blynk-ArduinoUNO-/blob/master/photo1.jpg)
