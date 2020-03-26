@@ -21,3 +21,6 @@ Necessities :
 - Freewheeling diode
 - Transistor BC547 ( can also be BC548 , ...)
 - jumpwires
+
+
+![alt text](http://url/to/img.png)
